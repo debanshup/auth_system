@@ -1,0 +1,40 @@
+0000000000000000000000000000000000000000 c268ac097f38677a17ef4dc7caa9bbcc2eca3dd8 debanshup <debanshupanigrahi53605@gmail.com> 1731252977 +0530	clone: from https://github.com/debanshup/authentication_system.git
+c268ac097f38677a17ef4dc7caa9bbcc2eca3dd8 3904b4242d38b445e1d1d56094a1a73ad17b69f7 debanshup <debanshupanigrahi53605@gmail.com> 1731314427 +0530	commit: improved overall experience
+3904b4242d38b445e1d1d56094a1a73ad17b69f7 fffb651c8c6eaadb4abff53dc42843f070564164 debanshup <debanshupanigrahi53605@gmail.com> 1731678449 +0530	commit: improved overall experience
+fffb651c8c6eaadb4abff53dc42843f070564164 9345420be99b76d02a6f09a0a912f4921ac27166 debanshup <debanshupanigrahi53605@gmail.com> 1731678467 +0530	checkout: moving from master to issue-fix-branch
+9345420be99b76d02a6f09a0a912f4921ac27166 18c5819fdd539fc1a92f4ee6a53bbf7af56d203d debanshup <debanshupanigrahi53605@gmail.com> 1731678723 +0530	pull --tags origin issue-fix-branch: Fast-forward
+18c5819fdd539fc1a92f4ee6a53bbf7af56d203d fffb651c8c6eaadb4abff53dc42843f070564164 debanshup <debanshupanigrahi53605@gmail.com> 1731678773 +0530	checkout: moving from issue-fix-branch to master
+fffb651c8c6eaadb4abff53dc42843f070564164 95965b9f1b1e55de300b0c5c7f1b3614b0c0bdd9 debanshup <debanshupanigrahi53605@gmail.com> 1731678779 +0530	pull --tags origin master: Merge made by the 'ort' strategy.
+95965b9f1b1e55de300b0c5c7f1b3614b0c0bdd9 18c5819fdd539fc1a92f4ee6a53bbf7af56d203d debanshup <debanshupanigrahi53605@gmail.com> 1731678895 +0530	checkout: moving from master to issue-fix-branch
+18c5819fdd539fc1a92f4ee6a53bbf7af56d203d 18c5819fdd539fc1a92f4ee6a53bbf7af56d203d debanshup <debanshupanigrahi53605@gmail.com> 1731678918 +0530	checkout: moving from issue-fix-branch to issue-fix-branch
+18c5819fdd539fc1a92f4ee6a53bbf7af56d203d 18c5819fdd539fc1a92f4ee6a53bbf7af56d203d debanshup <debanshupanigrahi53605@gmail.com> 1731678931 +0530	reset: moving to HEAD
+18c5819fdd539fc1a92f4ee6a53bbf7af56d203d ddb98eeb51ecd3b2ee589d1a3c6470dd1a270af4 debanshup <debanshupanigrahi53605@gmail.com> 1731678938 +0530	pull --tags origin issue-fix-branch: Fast-forward
+ddb98eeb51ecd3b2ee589d1a3c6470dd1a270af4 c6ad0c8bfda8615a6e740a19d5652ae37152536e debanshup <debanshupanigrahi53605@gmail.com> 1731746094 +0530	commit: improved overall experience
+c6ad0c8bfda8615a6e740a19d5652ae37152536e 7434bfa7183abd618d52a140fd7b4d36d1492928 debanshup <debanshupanigrahi53605@gmail.com> 1731778082 +0530	commit: improved overall experience
+7434bfa7183abd618d52a140fd7b4d36d1492928 2721a13b138c92be7ec71e37eb8d86ecd2b8e6df debanshup <debanshupanigrahi53605@gmail.com> 1731830635 +0530	commit: improved ui
+2721a13b138c92be7ec71e37eb8d86ecd2b8e6df b6dae506e9d7adef97da80057630e0468b952a44 debanshup <debanshupanigrahi53605@gmail.com> 1731845792 +0530	commit: improved ui
+b6dae506e9d7adef97da80057630e0468b952a44 8b606c936bda14532a5cc8a22767d81e74885abb debanshup <debanshupanigrahi53605@gmail.com> 1731933130 +0530	commit: improved ui and added middleware
+8b606c936bda14532a5cc8a22767d81e74885abb 11b21f51b80ef0b93bb8897f58efc9e688c728d6 debanshup <debanshupanigrahi53605@gmail.com> 1731948409 +0530	commit: updated middleware, improved ui, fixed some minor bugs
+11b21f51b80ef0b93bb8897f58efc9e688c728d6 ec62c2ddf27b09ba461fdc1fb473ef6dfbbed73c debanshup <debanshupanigrahi53605@gmail.com> 1732123749 +0530	commit: improved overall ui
+ec62c2ddf27b09ba461fdc1fb473ef6dfbbed73c 2e5029a014ca07122f74c861209854071fb2ee5b debanshup <debanshupanigrahi53605@gmail.com> 1732203421 +0530	commit: Remove .env from repository
+2e5029a014ca07122f74c861209854071fb2ee5b 0bfe3f65b831f627e60d0460b1c3287efdbe0728 debanshup <debanshupanigrahi53605@gmail.com> 1732203477 +0530	commit: removed .env
+0bfe3f65b831f627e60d0460b1c3287efdbe0728 d16b0f1d7fa9837cd576c3da49e62defde4bf367 debanshup <debanshupanigrahi53605@gmail.com> 1732346673 +0530	commit: UPDATED README.MD AND ADDED CONTRIBUTING.MD
+d16b0f1d7fa9837cd576c3da49e62defde4bf367 95965b9f1b1e55de300b0c5c7f1b3614b0c0bdd9 debanshup <debanshupanigrahi53605@gmail.com> 1732346952 +0530	checkout: moving from issue-fix-branch to master
+95965b9f1b1e55de300b0c5c7f1b3614b0c0bdd9 95965b9f1b1e55de300b0c5c7f1b3614b0c0bdd9 debanshup <debanshupanigrahi53605@gmail.com> 1732346973 +0530	checkout: moving from master to master
+95965b9f1b1e55de300b0c5c7f1b3614b0c0bdd9 f0105ef8e7f7bebf14585045f5358546fe3dba0d debanshup <debanshupanigrahi53605@gmail.com> 1732347245 +0530	pull --tags origin master: Fast-forward
+f0105ef8e7f7bebf14585045f5358546fe3dba0d d16b0f1d7fa9837cd576c3da49e62defde4bf367 debanshup <debanshupanigrahi53605@gmail.com> 1732347300 +0530	checkout: moving from master to issue-fix-branch
+d16b0f1d7fa9837cd576c3da49e62defde4bf367 a0c8dbb36bf300fb124100eb4b493fa2fe901e93 debanshup <debanshupanigrahi53605@gmail.com> 1732347817 +0530	commit: Revert "Remove .env from repository"
+a0c8dbb36bf300fb124100eb4b493fa2fe901e93 fc70e830d8ad9c3ff3ec28ebe419538d1d9164b1 debanshup <debanshupanigrahi53605@gmail.com> 1732349118 +0530	commit: updated contributing.md
+fc70e830d8ad9c3ff3ec28ebe419538d1d9164b1 aa234fcef9fecfb43bca5cabce6bd89a3b3e424b debanshup <debanshupanigrahi53605@gmail.com> 1732349173 +0530	commit: updated .gitignore
+aa234fcef9fecfb43bca5cabce6bd89a3b3e424b 686e21b002494e1e6e33bff8ed60adeb09816a10 debanshup <debanshupanigrahi53605@gmail.com> 1732349236 +0530	commit: reverted
+686e21b002494e1e6e33bff8ed60adeb09816a10 26c8cda4598f41323a99a4e03f8f37887af57fe3 debanshup <debanshupanigrahi53605@gmail.com> 1732349576 +0530	commit: Add .env to .gitignore
+26c8cda4598f41323a99a4e03f8f37887af57fe3 b0f5788e9169f8f97b165a75664fe6fb826ef724 debanshup <debanshupanigrahi53605@gmail.com> 1732349624 +0530	commit: removed cached .env
+b0f5788e9169f8f97b165a75664fe6fb826ef724 69e9069580cb787f564d030fa5bda2045712da08 debanshup <debanshupanigrahi53605@gmail.com> 1732715014 +0530	commit: updated readme.md
+69e9069580cb787f564d030fa5bda2045712da08 4235fa565444f2c9bc529aac885132bff1a0cc2f debanshup <debanshupanigrahi53605@gmail.com> 1732715260 +0530	commit: updated
+4235fa565444f2c9bc529aac885132bff1a0cc2f b951150179cd0002c6dfaed3580a3f3f6bb41ca7 debanshup <debanshupanigrahi53605@gmail.com> 1732715424 +0530	commit: updated
+b951150179cd0002c6dfaed3580a3f3f6bb41ca7 475faa5b98c6d6b80cad05b8f06d066c2ba3641c debanshup <debanshupanigrahi53605@gmail.com> 1732715478 +0530	commit: updated
+475faa5b98c6d6b80cad05b8f06d066c2ba3641c 51b1fc7e49ddbeda986fd0242e320e1432e162cf debanshup <debanshupanigrahi53605@gmail.com> 1732715800 +0530	commit: added license
+51b1fc7e49ddbeda986fd0242e320e1432e162cf 1526f9626f094c1b4774304f51e7091b99c54187 debanshup <debanshupanigrahi53605@gmail.com> 1732716080 +0530	commit: enhanced
+1526f9626f094c1b4774304f51e7091b99c54187 a0eedb4ad3d0378ed8d35929c67022897bcef8be debanshup <debanshupanigrahi53605@gmail.com> 1732716232 +0530	commit: modified: README.md
+a0eedb4ad3d0378ed8d35929c67022897bcef8be af9cca63301fbd661e9fcd350140466d415ccea2 debanshup <debanshupanigrahi53605@gmail.com> 1732716453 +0530	commit: modified: README.md
+af9cca63301fbd661e9fcd350140466d415ccea2 ffd05e1f655cc217f3212a64accc1b404f329187 debanshup <debanshupanigrahi53605@gmail.com> 1732716701 +0530	commit: updated docs
